@@ -1,3 +1,7 @@
-var name =prompt("enter your name");
-var welcome =document.getElementById("welcome")
-welcome.innerHTML ="welcome " + name + "! we going to togo today"
+var a = prompt("enter a grade");
+var b = prompt("enter b grade");
+var c = prompt("enter c grade");
+var d = prompt("enter d grade");
+var e = prompt("enter e grade");
+
+var v = perseInt(a)
